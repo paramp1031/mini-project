@@ -1,0 +1,14 @@
+
+a{
+    text-decoration: none;
+}
+.footersection{
+    background-color: black;
+    color: white;
+}
+.backtotop{
+    float: right;   
+}
+.mainsection{
+    background-color: gainsboro;
+}
